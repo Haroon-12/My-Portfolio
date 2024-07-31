@@ -1241,10 +1241,10 @@ flex: 1;
     }
     .about{
         display: block;
+        margin-top: 320px;
     }
     .about-text{
         margin: 10px;
-        margin-top: 40px;
     }
     .about-img img{
         padding-bottom: 5%;
@@ -1283,6 +1283,9 @@ flex: 1;
     .read{
         padding: 8px 16px;
         font-size: 12px;
+    }
+    .bothskills{
+        display: block;
     }
     .container1{
         width: 100%;
